@@ -1,7 +1,7 @@
 package main;
 
 
-import listaexercicios.q9.Fatorial;
+import unifap.listas.lista1.q9.Fatorial;
 
 public class Main {
 	public static void main(String[] args) {
