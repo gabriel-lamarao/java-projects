@@ -1,4 +1,4 @@
-package listaexercicios.armazenamento;
+package listaexercicios.q2;
 
 public class Produtos {
 	public long codigo;

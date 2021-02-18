@@ -1,6 +1,6 @@
-package listaexercicios.armazenamento;
+package listaexercicios.q2;
 
-public class Qualificacao {
+public class QualificacaoMel {
 	public String forte;
 	public String medio;
 	public String fraco;

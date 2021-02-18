@@ -1,10 +1,10 @@
-package listaexercicios.armazenamento;
+package listaexercicios.q2;
 
 public class Colmeia {
 	public int codigo;
 	public String regiao;
 	public String estado;
-	Qualificacao qualificacao = new Qualificacao();
+	QualificacaoMel qualificacao = new QualificacaoMel();
 	public long numeroAbelhas;
 	Colmeia dados[] = new Colmeia[100]; 
 	

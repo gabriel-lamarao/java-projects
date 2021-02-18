@@ -1,4 +1,4 @@
-package listaexercicios.empregado;
+package listaexercicios.q1;
 
 public class Empregado {
 	public String nome;

@@ -1,4 +1,4 @@
-package listaexercicios.sete;
+package listaexercicios.q7;
 
 public class Conceito {
 	public void calculaConceito(double media) {
